@@ -258,16 +258,16 @@ Firas Trabelsi - [@your_twitter](https://twitter.com/your_username) - email@exam
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[contributors-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[forks-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/network/members
-[stars-shield]: https://img.shields.io/github/stars/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[stars-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[issues-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/issues
-[license-shield]: https://img.shields.io/github/license/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[license-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TrFiras/Trip_Backend.svg?style=for-the-badge
+[contributors-url]: https://github.com/TrFiras/Trip_Backend/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TrFiras/Trip_Backend.svg?style=for-the-badge
+[forks-url]: https://github.com/TrFiras/Trip_Backend/network/members
+[stars-shield]: https://img.shields.io/github/stars/TrFiras/Trip_Backend.svg?style=for-the-badge
+[stars-url]: https://github.com/TrFiras/Trip_Backend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TrFiras/Trip_Backendd.svg?style=for-the-badge
+[issues-url]: https://github.com/TrFiras/Trip_Backend/issues
+[license-shield]: https://img.shields.io/github/license/TrFiras/Trip_Backend.svg?style=for-the-badge
+[license-url]: https://github.com/TrFiras/Trip_Backend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Firastrabelsi94
 [product-screenshot]: src/assets/trip.png
