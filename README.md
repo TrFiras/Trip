@@ -57,22 +57,6 @@ intermediary for multiple REST APIs.
 
 ## About The Project
 
-<style>
-.container {
-  display: grid;
- align-items: left; 
- grid-template-columns: 0.2fr 1fr 1fr;
- column-gap: 15px;
-}
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-
-.text {
-  font-size: 14px;
-}
-</style>
 
  <div class="container">
       <div class="image">
