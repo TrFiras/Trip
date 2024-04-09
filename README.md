@@ -128,7 +128,7 @@ docker compose up
 2. Build images using docker:
 
 ```sh
-   docker build . -t "trip_front:v1.0"
+   docker build . -t "trip_back:v1.0"
 ```
 
 3. We can now check the list of available docker images on our local system by running the following command:
@@ -140,7 +140,7 @@ docker compose up
 4. Let’s now try running this image; which is now called a container. Run the following command to spin up a container based on the image "trip_front:v1.0"
 
 ```sh
-   docker run -p 8080:8080 "trip_front:v1.0"
+   docker run -p 5000:5001 "trip_back:v1.0"
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -159,7 +159,7 @@ As I mentioned previously, this backend project is following 3-layers architectu
 <img src="assets/TripData.PNG" height="380px" width="260px"><br/>
 
 <p>Before going through some code samples, is better to have a clear vision about the class/ER diagram of the application</p>
-<img src="assets/DB.PNG" height="880px" width="1060px"><br/>
+<img src="assets/DB.png" height="880px" width="1060px"><br/>
 <hr/>
 0. Controller:<br/>
    In this example, I will show you an example of controller part for GraphQL implementation in order to get list of reservation. So first let's see the pi responsible to retrieve data from database<br/>
