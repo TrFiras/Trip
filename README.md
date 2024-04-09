@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="assets/trip.png" alt="Logo" width="80" height="80">
+    <img src="assets/trip.PNG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">TRIP-APPLICATION</h3>
