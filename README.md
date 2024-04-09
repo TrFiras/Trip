@@ -124,6 +124,8 @@ I did a static code analysis for our code to ensure that I haven't technical deb
 ```sh
 docker compose up
 ```
+![image](https://github.com/TrFiras/Trip_Backend/assets/165997798/5e34051b-4f15-454b-bedf-75ff76fcc04a)
+
 
 2. Build images using docker:
 
